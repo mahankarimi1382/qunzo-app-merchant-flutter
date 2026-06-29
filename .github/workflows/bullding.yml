@@ -54,5 +54,5 @@ jobs:
         with:
           name: Qunzo-Release-APK
           # ⚠️ اکشن‌های ثالث مسیر را از ریشه ریپازیتوری می‌سنجند، نه working-directory
-          path: agent/build/app/outputs/flutter-apk/app-release.apk
+          path: merchant/build/app/outputs/flutter-apk/app-release.apk
           retention-days: 7
